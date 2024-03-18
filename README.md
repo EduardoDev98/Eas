@@ -6,4 +6,4 @@
 <h2> Tecnologias ultilizadoas</h2>
  HTML
  CSS
-<img src="">
+<img src="https://github.com/EduardoDev98/Eas/blob/main/Captura%20de%20tela%202024-03-18%20114607.png?raw=true">
